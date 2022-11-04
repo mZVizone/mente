@@ -1,0 +1,25 @@
+body{
+    font-family: 'Arvo', serif;
+    background-color: rgba(127, 181, 251, 0.914);
+}
+h1{
+    color: pink;
+    text-align: center;
+    font-size: 80px;
+    margin: 20px;
+    padding: 10px;
+}
+p{
+    color: pink;
+    text-align: center;
+    font-size: 100px;
+    margin: 20px;
+    padding: 10px;
+}
+h2{
+    color: pink;
+    text-align: center;
+    font-size: 80px;
+    margin: 20px;
+    padding: 10px;
+}
